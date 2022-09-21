@@ -17,3 +17,6 @@ and Twitter dataset for detecting depression also from sentiments.
 
 3. In Browser open URL localhost:5987
 4. Take a look at Screenshots for better Understanding
+
+
+https://i.postimg.cc/MXtb7Z7T/Home.png
