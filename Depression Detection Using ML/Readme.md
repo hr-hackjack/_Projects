@@ -23,8 +23,8 @@ Take a look at below Screenshots for better Understanding:
 
 ![Screenshot](Quiz.png)
 
-![Screenshot](Result.png)
-
 ![Screenshot](Sentiments.png)
 
 ![Screenshot](Test.png)
+
+![Screenshot](Result.png)
