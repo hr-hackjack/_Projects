@@ -20,6 +20,6 @@ and Twitter dataset for detecting depression also from sentiments.
 
 Take a look at below Screenshots for better Understanding:
 
-![image]([https://{url}](https://i.postimg.cc/MXtb7Z7T/Home.png))
+![Screenshot](screenshot.png)
 
 
