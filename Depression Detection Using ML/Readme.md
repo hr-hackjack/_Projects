@@ -16,6 +16,10 @@ and Twitter dataset for detecting depression also from sentiments.
    python server.py
 
 3. In Browser open URL localhost:5987
-4. Take a look at Screenshots for better Understanding
+
+
+Take a look at below Screenshots for better Understanding:
+
+![image]([https://{url}](https://i.postimg.cc/MXtb7Z7T/Home.png))
 
 
