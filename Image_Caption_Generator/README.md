@@ -1,7 +1,6 @@
 <h1> Neural Image Caption Generator </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/made%20by%20-matakshay-blue">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 <img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
 <img src="https://img.shields.io/badge/python-v3.7%2B-orange" />
